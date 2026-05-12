@@ -1,4 +1,4 @@
-# 
+# quantitative osmosis trading bot Tool | liquidity-pool-analysis + staking-integration is the best osmosis trading bot, featuring liquidity-pool-analysis and staking-integration.
 
 
 
